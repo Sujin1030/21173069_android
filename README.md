@@ -9,3 +9,8 @@
 <img width="" height="" src="./pic/3st_네이버.PNG"></img>
 <img width="" height="" src="./pic/3st_전화걸기.PNG"></img>
 
+## 5주차 과제
+<img width="" height="" src="./pic/5st_1.PNG"></img>
+<img width="" height="" src="./pic/5st_2.PNG"></img>
+<img width="" height="" src="./pic/5st_3.PNG"></img>
+<img width="" height="" src="./pic/5st_4.PNG"></img>
