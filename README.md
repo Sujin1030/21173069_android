@@ -16,7 +16,7 @@
 <img width="" height="" src="./pic/5st_4.png"></img>
 
 ## 6주차
-<img width="" height="" src="./pic/6st_1.png"></img>
-<img width="" height="" src="./pic/6st_2.png"></img>
-<img width="" height="" src="./pic/6st_3.PNG"></img>
-<img width="" height="" src="./pic/6st_4.png"></img>
+<img width="" height="" src="./pic/6st_1.png.png"></img>
+<img width="" height="" src="./pic/6st_2.png.png"></img>
+<img width="" height="" src="./pic/6st_3.png.png"></img>
+<img width="" height="" src="./pic/6st_4.png.png"></img>
